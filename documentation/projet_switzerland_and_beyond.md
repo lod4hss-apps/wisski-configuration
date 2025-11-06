@@ -12,3 +12,11 @@ See this example of the Federal Council 1848:
 
 ![Conseil Fédéral 1848](pictures/Conseil_fédéral_1848.jpg)
 Source: [Wikimedia Commons, public domain](https://commons.wikimedia.org/wiki/File:Conseil_f%C3%A9d%C3%A9ral_1848.jpg?uselang=fr)
+
+
+Rang supérieur, de g. à d.: Henri Druey, Jonas Furrer, Ulrich Ochsenbein.
+
+Rang inférieur, de g. à d.:
+Josef Munzinger, Stefano Franscini, Matthias Näff, Friedrich Frey-Herosé.
+
+Source 	*Bildersammlung der Universitätsbibliothek Basel*
